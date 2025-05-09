@@ -33,9 +33,11 @@ Then run interface.py. Note that if the application fails to connect to the data
 Once the connection succeeds, the application will then render the main window.
 
 Fig 1. Connecting to the interface
+
 ![alt text](/images/Interface1.jpg)
 
 Fig 2. Main Interface Window
+
 ![alt text](/images/Interface2.jpg)
 
 #### Interesting Queries
@@ -48,6 +50,7 @@ Some of the interesting queries that our program can execute are:
 We found these queries to be interesting because they leverage SQL to summarize data that isn’t readily available. Each of the queries yield values that bridge at least three different relationships and give the user insight into important information that would be useful to a music industry insider.
 
 Fig 4. Top 5 Best Selling Artists
+
 ![alt text](/images/Interface3.jpg)
 
 
